@@ -122,7 +122,7 @@ p {
     margin: 0 0 25px;
     font-size: 18px;
     line-height: 1.5;
-    text-align: center;
+    text-align: justify;
 }
 
 
@@ -217,7 +217,7 @@ a:focus {
 
 .caption{
     font-weight: 100;
-    font-size: 32px;
+    /*font-size: 32px;*/
     color: #000;
 }
 
@@ -727,7 +727,7 @@ video {
     right: 0;
     border-width: 0 30px 30px 0;
     border-style: solid;
-    border-color: #fff #fff #931ed1 #931ed1; /* Primary color, can be changed via colors.css */
+    border-color: #fff #fff rgb(88, 111, 149) rgb(88, 111, 149); /* Primary color, can be changed via colors.css */
     -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3), -1px 1px 1px rgba(0, 0, 0, 0.2);
        -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3), -1px 1px 1px rgba(0, 0, 0, 0.2);
             box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3), -1px 1px 1px rgba(0, 0, 0, 0.2);
@@ -750,6 +750,7 @@ video {
      -webkit-transition: background .5s ease-in-out;
         -moz-transition: background .5s ease-in-out;
              transition: background .5s ease-in-out;
+    height: 240px;
 }
 
 .services-item h4{
@@ -766,11 +767,12 @@ video {
 .services-item p{
     padding: 0;
     margin: 0;
-    color:#999;
+    color:#333;
     font-size: 16px;
      -webkit-transition: all .2s ease-in-out;
         -moz-transition: all .2s ease-in-out;
              transition: all .2s ease-in-out;
+    text-align: center;
 }
 
 
@@ -784,10 +786,11 @@ video {
 }
 
 .services-item:hover{
-    background:#931ed1; /* Primary color, can be changed via colors.css */
+ background: rgb(88, 111, 149); /* Primary color, can be changed via colors.css */
      -webkit-transition: background .2s ease-in-out;
         -moz-transition: background .2s ease-in-out;
              transition: background .2s ease-in-out;
+    font-weight: 700;
 }
 
 
@@ -1668,7 +1671,7 @@ footer .social a{
     border: 1px solid #fff; /* Hover border color, can be changed via colors.css */
     outline: 0;
     color: #fff;
-    background: #df514c; /* Hover color, can be changed via colors.css */
+    background: #ff00b1; /* Hover color, can be changed via colors.css */
 }
 
 

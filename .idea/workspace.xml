@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d346abf1-6d2f-41e1-af09-e1ad34be80f2" name="Default" comment="" />
+    <list default="true" id="d346abf1-6d2f-41e1-af09-e1ad34be80f2" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/kotlin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/yeng.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/hallooou.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/hallooou.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/one-page_parallax.html" beforeDir="false" afterPath="$PROJECT_DIR$/one-page_parallax.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,10 +23,12 @@
       <file leaf-file-name="one-page_parallax.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/one-page_parallax.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
-              <caret line="153" column="35" selection-start-line="153" selection-start-column="35" selection-end-line="153" selection-end-column="35" />
+            <state relative-caret-position="107">
+              <caret line="789" column="31" selection-start-line="789" selection-start-column="31" selection-end-line="789" selection-end-column="31" />
               <folding>
                 <element signature="n#style#0;n#h4#0;n#div#1;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -29,8 +37,8 @@
       <file leaf-file-name="hallooou.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/hallooou.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="124" column="22" selection-start-line="124" selection-start-column="22" selection-end-line="124" selection-end-column="22" />
+            <state relative-caret-position="75">
+              <caret line="1673" column="23" selection-start-line="1673" selection-start-column="23" selection-end-line="1673" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -43,6 +51,9 @@
       <find>what we</find>
       <find>rgba(254,82,76, 1)</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -67,6 +78,7 @@
     <option name="width" value="1342" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -131,12 +143,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545896380474</updated>
-      <workItem from="1545896392221" duration="4533000" />
+      <workItem from="1545896392221" duration="10778000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4533000" />
+    <option name="totallyTimeSpent" value="10778000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1368" height="780" extended-state="6" />
@@ -146,10 +158,10 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.33073324" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -170,17 +182,19 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/css/hallooou.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="124" column="22" selection-start-line="124" selection-start-column="22" selection-end-line="124" selection-end-column="22" />
+        <state relative-caret-position="75">
+          <caret line="1673" column="23" selection-start-line="1673" selection-start-column="23" selection-end-line="1673" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/one-page_parallax.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="153" column="35" selection-start-line="153" selection-start-column="35" selection-end-line="153" selection-end-column="35" />
+        <state relative-caret-position="107">
+          <caret line="789" column="31" selection-start-line="789" selection-start-column="31" selection-end-line="789" selection-end-column="31" />
           <folding>
             <element signature="n#style#0;n#h4#0;n#div#1;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
