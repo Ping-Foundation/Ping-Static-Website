@@ -58,9 +58,25 @@
                     <div class="navbar-header pull-left">
                         <a class="navbar-brand page-scroll" href="#page-top">
                             <!-- replace with your brand logo/text -->
-                            <span class="brand-logo"><img src="assets/images/logo.svg" onerror="this.src='assets/images/logo.png'; this.onerror=null;" alt="Hallooou - HTML5 Template" title="Hallooou - HTML5 Template" class="img-responsive"></span>
+                            <span id="logo" class="brand-logo"><img id="logo-img" src="assets/ping_logo.png" onerror="this.src='assets/images/logo.png'; this.onerror=null;"  class="img-responsive"></span>
                         </a>
                     </div>
+
+                    <script>
+                        // When the user scrolls down 50px from the top of the document, resize the header's font size
+                        window.onscroll = function() {scrollFunction()};
+
+                        function scrollFunction() {
+                            if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+                                /*document.getElementById("logo").style.width = "13%";*/
+                                $(".brand-logo").css("width","100px");
+                                document.getElementById("logo-img").style.marginTop = "-20px";
+                            } else {
+                                document.getElementById("logo").style.width = "25%";
+                                document.getElementById("logo-img").style.marginTop = "0px";
+                            }
+                        }
+                    </script>
                     <div class="main-nav pull-right">
                         <div class="button_container toggle">
                             <span class="top"></span>
@@ -72,12 +88,13 @@
                         <nav class="overlay-menu">
                             <ul>
                                 <li><a href="#about">About us</a></li>
-                                <li><a href="#services">What we do</a></li>
-                                <li><a href="#products">Why choose us</a></li>
-                                <li><a href="#team">Our Team</a></li>
-                                <li><a href="#portfolio">Portfolio</a></li>
-                                <li><a href="#clients">Our clients</a></li>
-                                <li><a href="#contact">Contact us</a></li>
+                                <li><a href="#activities">Activities</a></li>
+                                <li><a href="#projects">Projects</a></li>
+                                <!--<li><a href="#team">Our Team</a></li>-->
+                                <!--<li><a href="#portfolio">Portfolio</a></li>-->
+                                <li><a href="#sponsors">Sponsors</a></li>
+                                <li><a href="#join">Join Us</a></li>
+                                <li><a href="#contact">Contact</a></li>
                             </ul>
                         </nav>
                     </div>
@@ -88,14 +105,14 @@
 
             <!-- Intro Header -->
             <!-- Full Page Image Background Carousel Header -->
-            <header id="intro-carousel" class="carousel slide">
+            <header id="intro-carousel head" class="carousel slide">
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner">
                     <div class="item active">
                     <div id="parallax-slide" class="fill"></div>
                         <div class="carousel-caption">
                            <!-- <h1 class="animated slideInDown">Customizable <span class="highlight">colors</span> &amp; blocks</h1>-->
-                            <h3 style="color: #fff;" class="intro-text animated slideInUp">With a vision of “ Finding Empty Space”, Ping Foundation intend to build
+                            <h3 style="color: #fff;" class="intro-text animated slideInUp">With a vision of<br> “ Finding Empty Space”, <br>Ping Foundation intend to build
                                 a passionate team to resolve unsolved problems and pave the way for a better world.
                             </h3>
                          <!--   <a href="http://bit.ly/hh5_template" class="btn btn-default btn-lg">Download theme</a>-->
@@ -141,7 +158,7 @@
 
 
             <!-- Services Section -->
-            <section id="services" class="services content-section">
+            <section id="activities" class="services content-section">
                 <div class="container">
                     <div class="row text-center">
                         <div class="col-md-12">
@@ -226,7 +243,7 @@
 
 
             <!-- Products Section -->
-            <section id="products" class="products content-section parallax">
+            <section id="projects" class="products content-section parallax">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-4">
@@ -280,14 +297,14 @@
 
 
 
-            <!-- Our team Section -->
+    <!--         Our team Section
             <section id="team" class="team content-section">
                 <div class="container">
                     <div class="row text-center">
                         <div class="col-md-12">
                             <h2>Our Team</h2>
                             <h3 class="caption gray">Meet the people who make awesome stuffs</h3>
-                        </div><!-- /.col-md-12 -->
+                        </div> /.col-md-12
 
                         <div class="container">
                             <div class="row">
@@ -307,8 +324,8 @@
                                         </figure>
                                         <h4>Lauren Cox</h4>
                                         <p>Creative Director</p>
-                                    </div><!-- /.team-member -->
-                                </div><!-- /.col-md-4 -->
+                                    </div> /.team-member
+                                </div> /.col-md-4
 
                                 <div class="col-md-4">
                                     <div class="team-member">
@@ -325,8 +342,8 @@
                                         </figure>
                                         <h4>Jessie Barnett</h4>
                                         <p>UI/UX Designer</p>
-                                    </div><!-- /.team-member -->
-                                </div><!-- /.col-md-4 -->
+                                    </div> /.team-member
+                                </div> /.col-md-4
 
                                 <div class="col-md-4">
                                     <div class="team-member">
@@ -343,8 +360,8 @@
                                         </figure>
                                         <h4>Terry Fletcher</h4>
                                         <p>Web Developer</p>
-                                    </div><!-- /.team-member -->
-                                </div><!-- /.col-md-4 -->
+                                    </div> /.team-member
+                                </div> /.col-md-4
 
 
                                  <div class="col-md-4">
@@ -362,8 +379,8 @@
                                         </figure>
                                         <h4>Lauren Cox</h4>
                                         <p>Creative Director</p>
-                                    </div><!-- /.team-member -->
-                                </div><!-- /.col-md-4 -->
+                                    </div> /.team-member
+                                </div> /.col-md-4
 
                                 <div class="col-md-4">
                                     <div class="team-member">
@@ -380,8 +397,8 @@
                                         </figure>
                                         <h4>Jessie Barnett</h4>
                                         <p>UI/UX Designer</p>
-                                    </div><!-- /.team-member -->
-                                </div><!-- /.col-md-4 -->
+                                    </div> /.team-member
+                                </div> /.col-md-4
 
                                 <div class="col-md-4">
                                     <div class="team-member">
@@ -398,15 +415,15 @@
                                         </figure>
                                         <h4>Terry Fletcher</h4>
                                         <p>Web Developer</p>
-                                    </div><!-- /.team-member -->
-                                </div><!-- /.col-md-4 -->
+                                    </div> /.team-member
+                                </div> /.col-md-4
 
-                            </div><!-- /.row -->
-                        </div><!-- /.container -->
+                            </div> /.row
+                        </div> /.container
 
-                    </div><!-- /.row -->
-                </div><!-- /.container -->
-            </section><!-- /.our-team -->
+                    </div> /.row
+                </div> /.container
+            </section> /.our-team -->
 
 
 
@@ -635,7 +652,7 @@
 
 
             <!-- Call to action - one section -->
-            <section class="cta-one-section content-section alt-bg-light">
+            <section id="sponsors" class="cta-one-section content-section alt-bg-light">
                 <div class="container">
                     <div class="row text-center">
                         <div class="col-md-6">
@@ -714,7 +731,7 @@
 
 
             <!-- Contact section -->
-            <section id="contact" class="contact content-section no-bottom-pad">
+            <section id="join" class="contact content-section no-bottom-pad">
                 <div class="container">
                     <div class="row text-center">
                         <div class="col-md-12">
@@ -780,7 +797,7 @@
 
             
             <!-- Footer -->
-            <footer>
+            <footer id="contact">
                 <div class="container">
                     <div class="row text-center">
                         <div class="col-md-12 segment">
@@ -792,12 +809,12 @@
                     </div><!-- /.row -->
 
                     <div class="row text-center">
-                        <div class="col-md-12 social segment">
+                  <!--      <div class="col-md-12 social segment">
                             <h4>Stay Connected</h4>
                             <a href="#"><i class="fa fa-facebook fa-3x"></i></a>
                             <a href="#"><i class="fa fa-twitter fa-3x"></i></a>
                             <a href="#"><i class="fa fa-linkedin fa-3x"></i></a>
-                        </div><!-- /.col-md-12 -->
+                        </div>&lt;!&ndash; /.col-md-12 &ndash;&gt;-->
                     </div><!-- /.row -->
 
                 </div><!-- /.container -->
@@ -806,7 +823,7 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12 text-center">
-                                &copy; 2015. Hallooou. All rights reserved.
+                                &copy; 2019. Ping Foundation. All rights reserved.
                             </div><!-- /.col-md-12 -->
 
                         </div><!-- /.row -->

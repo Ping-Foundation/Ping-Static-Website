@@ -281,7 +281,7 @@ blockquote span{
 }
 
 .navbar-custom.top-nav-collapse{
-    background: rgba(254,82,76, .9); /* Primary color, can be changed via colors.css */
+    background: #fff /* Primary color, can be changed via colors.css */
 }
 
 .navbar-custom .navbar-brand {
@@ -1759,7 +1759,7 @@ footer .social a{
     }
     .navbar-custom.top-nav-collapse {
         padding: 10px 0;
-        background: #931ed1; /* Primary color, can be changed via colors.css */
+        background: #fff; /* Primary color, can be changed via colors.css */
         -webkit-transition: background .5s ease-in-out, padding .5s ease-in-out;
            -moz-transition: background .5s ease-in-out, padding .5s ease-in-out;
                 transition: background .5s ease-in-out, padding .5s ease-in-out;
@@ -1773,7 +1773,7 @@ footer .social a{
     }
 
     .navbar-custom.top-nav-collapse .button_container span{
-        background: #fff;
+        background: #ff00b1;
     }
 
     .navbar-custom.top-nav-collapse .button_container.active span.top,
@@ -1824,6 +1824,9 @@ footer .social a{
         color: #931ed1;
         color: #fff;
     }
+    .navbar-custom .navbar-brand{
+        padding-top: 23px;
+    }
 
     .video-section{
         background: url(../images/youtube-video-cover.jpg) no-repeat bottom center scroll;
@@ -1832,7 +1835,7 @@ footer .social a{
 
     .button_container span,
     .button_container span {
-        background: #fff !important;
+        background: #ff00b1 !important;
     }
 
     .button_container.active span.top,
@@ -1952,3 +1955,11 @@ body {
     border:1px solid #f00;
 }
 
+.brand-logo{
+    width: 25%;
+    float: left;
+    transition: 1s;
+}
+.navbar{
+    min-height: 66px;
+}

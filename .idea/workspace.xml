@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d346abf1-6d2f-41e1-af09-e1ad34be80f2" name="Default" comment="" />
+    <list default="true" id="d346abf1-6d2f-41e1-af09-e1ad34be80f2" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/ping_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/hallooou.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/hallooou.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="one-page_parallax.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/one-page_parallax.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="789" column="31" selection-start-line="789" selection-start-column="31" selection-end-line="789" selection-end-column="31" />
+            <state relative-caret-position="240">
+              <caret line="97" column="33" lean-forward="true" selection-start-line="97" selection-start-column="33" selection-end-line="97" selection-end-column="33" />
               <folding>
                 <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -30,8 +35,8 @@
       <file leaf-file-name="hallooou.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/hallooou.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25095">
-              <caret line="1673" column="23" selection-start-line="1673" selection-start-column="23" selection-end-line="1673" selection-end-column="23" />
+            <state relative-caret-position="178">
+              <caret line="1837" column="27" selection-start-line="1837" selection-start-column="27" selection-end-line="1837" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -43,6 +48,7 @@
       <find>brand</find>
       <find>what we</find>
       <find>rgba(254,82,76, 1)</find>
+      <find>ping_</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -51,8 +57,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/assets/css/hallooou.css" />
         <option value="$PROJECT_DIR$/one-page_parallax.html" />
+        <option value="$PROJECT_DIR$/assets/css/hallooou.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -119,10 +126,10 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="one-page_parallax.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ping-website/one-page_parallax.html" />
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ping-website/index.html" />
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.one-page_parallax.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -137,15 +144,17 @@
       <option name="presentableId" value="Default" />
       <updated>1545896380474</updated>
       <workItem from="1545896392221" duration="11792000" />
-      <workItem from="1546104186257" duration="686000" />
+      <workItem from="1546104186257" duration="1388000" />
+      <workItem from="1546229120190" duration="4409000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12478000" />
+    <option name="totallyTimeSpent" value="17589000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1368" height="780" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24944155" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -173,7 +182,25 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/one-page_parallax.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11835">
+          <caret line="789" column="31" selection-start-line="789" selection-start-column="31" selection-end-line="789" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/hallooou.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25095">
+          <caret line="1673" column="23" selection-start-line="1673" selection-start-column="23" selection-end-line="1673" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11835">
           <caret line="789" column="31" selection-start-line="789" selection-start-column="31" selection-end-line="789" selection-end-column="31" />
@@ -193,15 +220,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/hallooou.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25095">
-          <caret line="1673" column="23" selection-start-line="1673" selection-start-column="23" selection-end-line="1673" selection-end-column="23" />
+        <state relative-caret-position="178">
+          <caret line="1837" column="27" selection-start-line="1837" selection-start-column="27" selection-end-line="1837" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/one-page_parallax.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="789" column="31" selection-start-line="789" selection-start-column="31" selection-end-line="789" selection-end-column="31" />
+        <state relative-caret-position="240">
+          <caret line="97" column="33" lean-forward="true" selection-start-line="97" selection-start-column="33" selection-end-line="97" selection-end-column="33" />
           <folding>
             <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
