@@ -750,7 +750,7 @@
 
                         <div class="col-md-8 contact-form">
                             <h3>Drop us a line</h3>
-                            <form class="ajax-form" id="contactForm" method="post" action="assets/php/contact.php">
+                            <form class="google-form" id="contactForm" method="post" name="google-form" action="">
                                 <div class="form-group">
                                     <input type="text" class="form-control" id="name" name="name" placeholder="Your Name..." value="" required>
                                 </div>
@@ -758,10 +758,10 @@
                                     <input type="email" class="form-control" id="email" name="email" placeholder="Your email..." value="" required>
                                 </div>
                                 <div class="form-group">
-                                    <input type="phone" class="form-control" id="phone" name="phone" placeholder="Your phone..." value="" required>
+                                    <input type="phone" class="form-control" id="phone" name="mobile" placeholder="Your phone..." value="" required>
                                 </div>
                                 <div class="form-group">
-                                    <textarea class="form-control" rows="4" name="message" placeholder="Description..." required></textarea>
+                                    <textarea class="form-control" rows="4" name="description" placeholder="Description..." required></textarea>
                                 </div>
                                 <div class="form-group">
                                     <button type="submit" name="submit" class="btn btn-default"><i class="fa fa-paper-plane fa-fw"></i> Send</button>
@@ -794,7 +794,7 @@
                     </div>&lt;!&ndash; /.row &ndash;&gt;
                 </div>&lt;!&ndash; /.container-fluid &ndash;&gt;-->
 
-
+            </section>
             
             <!-- Footer -->
             <footer id="contact">
@@ -860,6 +860,18 @@
 
     <!-- Custom JavaScript -->
     <script src="assets/js/hallooou.js"></script>
+                <script>
+                    const scriptURL = 'https://script.google.com/macros/s/AKfycbwW7d0rgRhLcGKEqVfefj5pAy7hbPIEG2ig82n8tD0DjJ71ak6T/exec'
+                    const form = document.forms['google-form'];
+
+                    form.addEventListener('submit', e => {
+                        e.preventDefault();
+                        fetch(scriptURL, { method: 'POST',mode: 'no-cors', body: new FormData(form)})
+                            .then(response => location.reload())
+                            .catch(error => console.error('Error!', error.message))
+                    })
+                </script>
+
 </body>
 
 </html>
