@@ -47,7 +47,25 @@
       <script>
         document.createElement('video');
       </script>
+    <style>
+        .social:hover {
+            -webkit-transform: scale(1.1);
+            -moz-transform: scale(1.1);
+            -o-transform: scale(1.1);
+        }
+        .social {
+            -webkit-transform: scale(0.8);
+            /* Browser Variations: */
+
+            -moz-transform: scale(0.8);
+            -o-transform: scale(0.8);
+            -webkit-transition-duration: 0.5s;
+            -moz-transition-duration: 0.5s;
+            -o-transition-duration: 0.5s;
+        }
+    </style>
     <![endif]-->
+    <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
 
 </head>
 
@@ -809,13 +827,15 @@
                     </div><!-- /.row -->
 
                     <div class="row text-center">
-                  <!--      <div class="col-md-12 social segment">
-                            <h4>Stay Connected</h4>
-                            <a href="#"><i class="fa fa-facebook fa-3x"></i></a>
-                            <a href="#"><i class="fa fa-twitter fa-3x"></i></a>
-                            <a href="#"><i class="fa fa-linkedin fa-3x"></i></a>
-                        </div>&lt;!&ndash; /.col-md-12 &ndash;&gt;-->
-                    </div><!-- /.row -->
+                        <div class="container">
+                            <div class="text-center center-block">
+                                <a href="https://github.com/Ping-Foundation/"><i class="fa fa-github fa-2x social" style="padding-right: 5px"></i></a>
+                                <a href="https://t.me/pingfoundation"><i class="fa fa-paper-plane fa-2x social" style="padding-right: 5px"></i></a>
+                                <a href="https://www.instagram.com/pingfoundation/"><i class="fa fa-instagram fa-2x social" style="padding-right: 5px"></i></a>
+                                <a href="https://www.instagram.com/pingfoundation/"><i class="fa fa-facebook fa-2x social" style="padding-right: 5px"></i></a>
+                            </div>
+                        </div>
+                    </div>
 
                 </div><!-- /.container -->
 
