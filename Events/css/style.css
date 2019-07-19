@@ -78,7 +78,7 @@ a.navbar-brand {
 
 /*-- //header --*/
 
-/* banner */
+/*  */
 
 .banner {
     background: url(../images/10DKA/kotlin_banner.jpeg)no-repeat;
@@ -863,8 +863,8 @@ form.contact-wthree .form-control {
 /* -- //Responsive code -- */
 
 section {
-    padding-top: 4rem;
-    padding-bottom: 5rem;
+    /*padding-top: 4rem;*/
+    /*padding-bottom: 5rem;*/
     background-color: #f1f4fa;
 }
 .wrap {
@@ -1016,7 +1016,7 @@ body {
 }
 .card-container, .front, .back {
     width: 100%;
-    height: 420px;
+    height: 105px;
     border-radius: 4px;
 }
 .card .cover{
