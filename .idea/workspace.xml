@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d346abf1-6d2f-41e1-af09-e1ad34be80f2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/colors.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/colors.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/colors_2.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/colors_2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/colors_3.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/colors_3.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/colors_4.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/colors_4.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/hallooou.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/hallooou.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -24,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4632">
-              <caret line="412" column="43" lean-forward="true" selection-start-line="412" selection-start-column="43" selection-end-line="412" selection-end-column="43" />
+            <state relative-caret-position="195">
+              <caret line="320" column="64" lean-forward="true" selection-start-line="320" selection-start-column="64" selection-end-line="320" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -124,10 +118,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="20" />
-    <option name="y" value="22" />
-    <option name="width" value="1340" />
-    <option name="height" value="745" />
+    <option name="x" value="2079" />
+    <option name="y" value="-9" />
+    <option name="width" value="1072" />
+    <option name="height" value="596" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -225,18 +219,17 @@
       <workItem from="1550809861467" duration="379000" />
       <workItem from="1551379548766" duration="383000" />
       <workItem from="1563517631315" duration="8871000" />
-      <workItem from="1563534562972" duration="5828000" />
+      <workItem from="1563534562972" duration="6808000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44232000" />
+    <option name="totallyTimeSpent" value="45212000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="1912" y="-8" width="1456" height="876" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24322538" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25952044" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -247,7 +240,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.08235294" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.24128312" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -279,8 +272,8 @@
     <entry file="file://$PROJECT_DIR$/assets/css/eventStyle.css" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4632">
-          <caret line="412" column="43" lean-forward="true" selection-start-line="412" selection-start-column="43" selection-end-line="412" selection-end-column="43" />
+        <state relative-caret-position="195">
+          <caret line="320" column="64" lean-forward="true" selection-start-line="320" selection-start-column="64" selection-end-line="320" selection-end-column="64" />
         </state>
       </provider>
     </entry>
