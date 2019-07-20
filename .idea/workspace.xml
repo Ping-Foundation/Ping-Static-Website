@@ -4,18 +4,93 @@
     <list default="true" id="d346abf1-6d2f-41e1-af09-e1ad34be80f2" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Events/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Events/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Events/images/about.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Events/images/banner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Events/images/bl1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Events/images/bl2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Events/images/bl3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Events/images/bl4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Events/images/i1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Events/images/i2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Events/images/i4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Events/images/slide.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Events/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Events/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/css/fontawesome-all.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/css/open-iconic-bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/10DKA/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/10DKA/image1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/10DKA/image10.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/10DKA/image11.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/10DKA/image12.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/10DKA/image13.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/10DKA/image14.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/10DKA/image15.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/10DKA/image2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/10DKA/image3.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/10DKA/image4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/10DKA/image5.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/10DKA/image6.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/10DKA/image7.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/10DKA/image8.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/10DKA/image9.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/10DKA/kotlin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/10DKA/kotlin_banner.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/Boot Camp/IMG-20190702-WA0002 (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/Boot Camp/IMG-20190702-WA0003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/Boot Camp/IMG-20190702-WA0004 (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/Boot Camp/IMG-20190702-WA0005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/Boot Camp/IMG-20190702-WA0006 (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/Boot Camp/IMG-20190702-WA0015 (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/Boot Camp/IMG-20190702-WA0016 (2).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/Boot Camp/IMG-20190708-WA0024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/Boot Camp/IMG-20190708-WA0028 (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/Boot Camp/IMG-20190717-WA0009 (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/Boot Camp/IMG-20190717-WA0088.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/Boot Camp/IMG-20190717-WA0089.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/Boot Camp/IMG-20190719-WA0045.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/Code Fun 3.0/FB_IMG_1563537142743.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/Code Fun 3.0/WhatsApp Image 2019-07-19 at 16.21.01 (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/Code Fun 3.0/WhatsApp Image 2019-07-19 at 16.21.02 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/Code Fun 3.0/WhatsApp Image 2019-07-19 at 16.21.03 (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/Code Fun 3.0/WhatsApp Image 2019-07-19 at 16.21.04 (3).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/Code Fun 3.0/WhatsApp Image 2019-07-19 at 16.21.04 (4).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/Code Fun 3.0/WhatsApp Image 2019-07-19 at 16.21.04.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/Code Fun 3.0/WhatsApp Image 2019-07-19 at 16.21.05.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/You Turn 2.0/FB_IMG_1563537158102.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/You Turn 2.0/IMG-20190217-WA0003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/You Turn 2.0/IMG-20190217-WA0023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/You Turn 2.0/IMG-20190217-WA0025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/You Turn 2.0/IMG-20190217-WA0026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/You Turn 2.0/IMG-20190217-WA0027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/You Turn 2.0/IMG-20190301-WA0044.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/You Turn 2.0/WhatsApp Image 2019-07-19 at 15.41.59.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/You Turn 2.0/WhatsApp Image 2019-07-19 at 15.42.01.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/You Turn 2.0/WhatsApp Image 2019-07-19 at 15.42.02 (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/You Turn 2.0/WhatsApp Image 2019-07-19 at 15.42.02.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/You Turn 2.0/WhatsApp Image 2019-07-19 at 15.42.05 (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/You Turn 2.0/WhatsApp Image 2019-07-19 at 15.42.05 (3).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/You Turn 2.0/WhatsApp Image 2019-07-19 at 15.49.34 (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/You Turn 2.0/youturn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/images/move-top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/js/SmoothScroll.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/js/easing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/js/fontawesome.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/js/jquery-2.2.3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/js/move-top.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/w3layouts-License.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/webfonts/fa-brands-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/webfonts/fa-brands-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/webfonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/webfonts/fa-brands-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/webfonts/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/webfonts/fa-regular-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/webfonts/fa-regular-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/webfonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/webfonts/fa-regular-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/webfonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/webfonts/fa-solid-900.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/webfonts/fa-solid-900.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/webfonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/webfonts/fa-solid-900.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Events/webfonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/colors.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/colors.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/colors_2.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/colors_2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/colors_3.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/colors_3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/colors_4.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/colors_4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/hallooou.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/hallooou.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,31 +102,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Events/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="153" column="45" selection-start-line="153" selection-start-column="45" selection-end-line="153" selection-end-column="45" />
-              <folding>
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Events/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-40">
-              <caret line="1018" column="18" lean-forward="true" selection-start-line="1018" selection-start-column="18" selection-end-line="1018" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -68,7 +119,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Events" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -80,14 +131,20 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Events/css/style.css" />
         <option value="$PROJECT_DIR$/Events/index.html" />
+        <option value="$PROJECT_DIR$/Events/Untitled Folder/Ping-Static-Website/events/10dka.html" />
+        <option value="$PROJECT_DIR$/Events/Untitled Folder/Ping-Static-Website/assets/css/colors.css" />
+        <option value="$PROJECT_DIR$/Events/Untitled Folder/Ping-Static-Website/assets/css/hallooou.css" />
+        <option value="$PROJECT_DIR$/Events/Untitled Folder/Ping-Static-Website/events/kbh.html" />
+        <option value="$PROJECT_DIR$/Events/Untitled Folder/Ping-Static-Website/events/Codefun.html" />
+        <option value="$PROJECT_DIR$/Events/Untitled Folder/Ping-Static-Website/events/Node.html" />
+        <option value="$PROJECT_DIR$/Events/Untitled Folder/Ping-Static-Website/events/Nodejs.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="20" />
-    <option name="y" value="24" />
-    <option name="width" value="1340" />
-    <option name="height" value="744" />
+    <option name="y" value="-4" />
+    <option name="width" value="1366" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -95,6 +152,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -102,39 +160,22 @@
               <item name="Ping-Static-Website" type="b2602c69:ProjectViewProjectNode" />
               <item name="Ping-Static-Website" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Ping-Static-Website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ping-Static-Website" type="462c0819:PsiDirectoryNode" />
-              <item name="Events" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ping-Static-Website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ping-Static-Website" type="462c0819:PsiDirectoryNode" />
-              <item name="Events" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ping-Static-Website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ping-Static-Website" type="462c0819:PsiDirectoryNode" />
-              <item name="Events" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Events/Untitled Folder/Ping-Static-Website/events" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Events/Untitled Folder/Ping-Static-Website/events" />
       <recent name="$PROJECT_DIR$/assets" />
     </key>
   </component>
@@ -189,18 +230,18 @@
       <workItem from="1550491342165" duration="3359000" />
       <workItem from="1550809861467" duration="379000" />
       <workItem from="1551379548766" duration="383000" />
-      <workItem from="1563541799926" duration="11684000" />
+      <workItem from="1563541799926" duration="12059000" />
+      <workItem from="1563601656854" duration="8976000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41217000" />
+    <option name="totallyTimeSpent" value="50568000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1366" height="735" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24348474" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24348474" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -211,7 +252,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.35126582" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3386076" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -273,22 +314,78 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Events/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-40">
-          <caret line="1018" column="18" lean-forward="true" selection-start-line="1018" selection-start-column="18" selection-end-line="1018" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Events/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="153" column="45" selection-start-line="153" selection-start-column="45" selection-end-line="153" selection-end-column="45" />
+        <state relative-caret-position="208">
+          <caret line="154" column="49" selection-start-line="154" selection-start-column="49" selection-end-line="154" selection-end-column="49" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Events/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1018" column="18" selection-start-line="1018" selection-start-column="18" selection-end-line="1018" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Events/Untitled Folder/Ping-Static-Website/events/10dka.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="133" column="104" lean-forward="true" selection-start-line="133" selection-start-column="104" selection-end-line="133" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Events/Untitled Folder/Ping-Static-Website/assets/css/hallooou.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="1969" column="1" selection-start-line="1969" selection-start-column="1" selection-end-line="1969" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Events/Untitled Folder/Ping-Static-Website/assets/css/colors.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="184" selection-start-line="184" selection-end-line="184" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Events/Untitled Folder/Ping-Static-Website/events/kbh.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="322" lean-forward="true" selection-start-line="322" selection-end-line="322" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Events/Untitled Folder/Ping-Static-Website/events/youTurn.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2061">
+          <caret line="256" column="94" selection-start-line="256" selection-start-column="94" selection-end-line="256" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Events/Untitled Folder/Ping-Static-Website/events/Nodejs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="404" column="43" lean-forward="true" selection-start-line="404" selection-start-column="43" selection-end-line="404" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Events/Untitled Folder/Ping-Static-Website/events/Codefun.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="431" column="61" lean-forward="true" selection-start-line="431" selection-start-column="61" selection-end-line="431" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Events/Untitled Folder/Ping-Static-Website/events/youTurn.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2061">
+          <caret line="256" column="94" selection-start-line="256" selection-start-column="94" selection-end-line="256" selection-end-column="94" />
         </state>
       </provider>
     </entry>

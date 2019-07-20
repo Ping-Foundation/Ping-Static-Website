@@ -152,7 +152,7 @@ blockquote {
 .team-member figure:hover figcaption,
 .services-item:hover,
 #cd-zoom-in, #cd-zoom-out{
-	background-color: rgba(233,180,69, 0.9); /* RGBA of Primary color - opacity .9 */
+	background-color: rgba(147, 30, 209, 0.9); /* RGBA of Primary color - opacity .9 */
 }
 
 

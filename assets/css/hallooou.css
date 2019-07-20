@@ -949,7 +949,7 @@ video {
 .team-member figure:hover figcaption{
     visibility: visible;
     color: #fff;
-    background: rgba(230,78,62,0.9); /* Primary color, can be changed via colors.css */
+    background: rgba(147, 30, 209, 0.9); /* Primary color, can be changed via colors.css */
     height: 100%;
     -webkit-transition: all 0.3s ease-in-out;
        -moz-transition: all 0.3s ease-in-out;
@@ -958,7 +958,7 @@ video {
 }
 
 .team-member figure:hover figcaption ul li a:hover{
-    color: rgba(49, 49, 49, .97);
+    color: rgba(147, 30, 209, 0.9);
 }
 
 .team-member figure img{
@@ -1962,4 +1962,9 @@ body {
 }
 .navbar{
     min-height: 66px;
+}
+.imght{
+    width: 100%;
+    object-fit: cover;
+    height: 300px; /* only if you want fixed height */
 }
