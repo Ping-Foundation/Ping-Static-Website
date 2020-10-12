@@ -83,21 +83,6 @@
                                                         class="img-responsive"></span>
             </a>
         </div>
-
-        <script>
-            // When the user scrolls down 50px from the top of the document, resize the header's font size
-            window.onscroll = function () { scrollFunction() };
-            function scrollFunction() {
-                if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
-                    /*document.getElementById("logo").style.width = "13%";*/
-                    $(".brand-logo").css("width", "100px");
-                    document.getElementById("logo-img").style.marginTop = "-20px";
-                } else {
-                    document.getElementById("logo").style.width = "25%";
-                    document.getElementById("logo-img").style.marginTop = "0px";
-                }
-            }
-        </script>
         <div class="main-nav pull-right">
             <div class="button_container toggle">
                 <span class="top"></span>
@@ -514,6 +499,21 @@
             .catch(error => console.error('Error!', error.message))
     })
 </script>
+    
+        <script>
+            // When the user scrolls down 50px from the top of the document, resize the header's font size
+            window.onscroll = function () { scrollFunction() };
+            function scrollFunction() {
+                if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+                    /*document.getElementById("logo").style.width = "13%";*/
+                    $(".brand-logo").css("width", "100px");
+                    document.getElementById("logo-img").style.marginTop = "-20px";
+                } else {
+                    document.getElementById("logo").style.width = "25%";
+                    document.getElementById("logo-img").style.marginTop = "0px";
+                }
+            }
+        </script>
 
 </body>
 
