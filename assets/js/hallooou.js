@@ -513,6 +513,11 @@ $(function() {
 });
 
 
+// Header section scroll down button
+$("#mouse").click(() => {
+    window.scrollBy({ top: window.innerHeight, left: 0, behavior: 'smooth' });
+});
+
 
 // Contact form
 $(function() {
