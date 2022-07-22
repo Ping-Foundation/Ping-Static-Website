@@ -1222,6 +1222,7 @@ ul.project-meta{
 .contact-form,
 .contact-address{
     padding-top: 60px;
+    padding-left: 350px;
 }
 
 .contact-form .form-group{
@@ -1241,7 +1242,7 @@ ul.project-meta{
 .contact-form .form-group input,
 .contact-form .form-group textarea{
     border-radius: 0;
-    padding: 20px 10px;
+    padding: 50px 20px;
     min-width: 100%;
     font-size: 16px;
 }
